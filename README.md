@@ -1,2 +1,0 @@
-# swisstronik
-swisstronik technical task
